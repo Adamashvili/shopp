@@ -1,0 +1,10 @@
+nav {
+  position: fixed;
+  width: 100%;
+  z-index: 3;
+  top: 0;
+  backdrop-filter: blur(20px);
+}
+main {
+  min-height: calc(100vh - 64px);
+}
